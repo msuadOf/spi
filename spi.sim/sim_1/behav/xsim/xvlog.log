@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/zz/xilinx/spi/src/rtl/spi_master.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spi_master
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/zz/xilinx/spi/src/rtl/spi_slave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spi_slave
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/zz/xilinx/spi/src/sim/spi_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spi_tb
